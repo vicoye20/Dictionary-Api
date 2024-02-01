@@ -19,11 +19,9 @@ h3{
 }
 
 main{
-    /* width: 800px; */
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    /* margin: auto; */
 }
 
 input{
